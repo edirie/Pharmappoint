@@ -1,8 +1,13 @@
 # Project Title:
+
 <h1 align="center">PharmaAppoint </h1>
+
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 ## Description:
+
 :mag: This is a CMS-style pharmacy appointment app where customers can book their appointment for covid test, covid shot or flu shot with the pharmacy.
+
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -10,10 +15,13 @@
 - [License](#license)
 - [Credits](#Credits)
 ## Installation
-:floppy_disk: 1. download or clone file
+
+   1. download or clone file
    2. npm install or npm i - to download the dependencies
    3. create .env file for mysql user and password
+   
 ## Usage
+
 1. Sign up to Create Account in able to access PharmAppoint App.
 2. Login to enter the App.
 3. Post  the date, time and type of appointment
@@ -28,8 +36,11 @@ Built with:
 - Sequelize
 - dotenv
 - bcrypt
+- 
 ## License
+
 https://opensource.org/licenses/MIT
+
 ## Credits
 :family:
 
